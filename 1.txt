@@ -1,4 +1,4 @@
 1
+conflict
 b1
 b2
-conflict
